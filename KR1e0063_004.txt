@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋讞義
-#+DATE: 2015-09-23 09:39:59
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:15:06.295919
+#+PROPERTY: ID KR1e0063
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1e0063_WYG_004-1a>¶
 欽定四庫全書¶
 　春秋讞義卷四　　　　　元　王元杰　撰¶
@@ -146,4 +148,3 @@
 　¶
 　¶
 　春秋讞義卷四¶
-
